@@ -1,0 +1,26 @@
+# _config.yml
+# Site settings
+name: "Jason Daniel — Cybersecurity Portfolio"
+title: "Jason Daniel — Cybersecurity Portfolio"
+description: "Home labs, detection engineering, and incident response notes."
+url: "https://cscdanielj.github.io"
+
+# Theme (official GitHub Pages theme)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Social / metadata
+author: Jason Daniel
+linkedin_username: jason-daniel-067236346
+
+# Navigation links (optional, shown in the header)
+nav:
+  - name: Home
+    link: /
+  - name: Labs
+    link: /#projects
+  - name: Writeups
+    link: /#writeups
+  - name: Resume
+    link: /#resume
