@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+      <p class="site-tagline">{{ site.description }}</p>
+      <nav class="site-nav">
+        {%- for item in site.nav -%}
+          <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+        {%- endfor -%}
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-content wrap">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <small>© {{ site.author }} · Built with GitHub Pages</small>
+    </div>
+  </footer>
+</body>
+</html>
