@@ -13,7 +13,6 @@ title: Home
 
 I am passionate about tackling complex cybersecurity challenges and currently focused on strengthening my expertise in incident response and digital infrastructure security. As I expand my hands-on experience, I am eager to contribute to cybersecurity initiatives, mitigate risks, and help organizations defend against emerging threats.
 
-Objective
 My goal is to leverage my education in IT background and cybersecurity  to secure a role as a Cybersecurity Analyst. I am committed to growing my skills to protect organizational assets from evolving cyber risks.</p>
       <div class="cta-group">
         <a class="btn btn-primary" href="#projects">View Projects</a>
