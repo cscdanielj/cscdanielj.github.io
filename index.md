@@ -16,10 +16,11 @@ title: Home
       </div>
     </div>
   
-   <div class="panel" style="text-align:center;">
+<div class="panel image-panel">
   <img src="/assets/img/img-defense.png" 
-       alt="Jason Daniel Cyber Portfolio" 
-       style="max-width: 500px; border-radius: 12px; box-shadow: 0 0 18px rgba(0,229,255,.4);">
+       alt="Jason Daniel Cyber Portfolio" />
+</div>
+
 </div>
 
   </div>
