@@ -5,29 +5,35 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+  <!-- Optional cyber-ish mono font; remove if you prefer system font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/css/cyber.css" | relative_url }}">
 </head>
 <body>
   <header class="site-header">
-    <div class="wrap">
-      <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
-      <p class="site-tagline">{{ site.description }}</p>
-      <nav class="site-nav">
-        {%- for item in site.nav -%}
-          <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
-        {%- endfor -%}
+    <div class="container navbar">
+      <a class="brand" href="{{ "/" | relative_url }}">JASON DANIEL</a>
+      <nav class="nav">
+        <a href="{{ "/" | relative_url }}#projects">Projects</a>
+        <a href="{{ "/" | relative_url }}#skills">Skills</a>
+        <a href="{{ "/" | relative_url }}#about">About</a>
+        <a class="btn btn-outline" href="{{ "/resume/Jason-Daniel-Resume.pdf" | relative_url }}">Resume</a>
       </nav>
     </div>
   </header>
 
-  <main class="site-content wrap">
+  <main class="site-main">
     {{ content }}
   </main>
 
   <footer class="site-footer">
-    <div class="wrap">
-      <small>© {{ site.author }} · Built with GitHub Pages</small>
+    <div class="container footer-row">
+      <small>© {{ site.author }} · Built on GitHub Pages</small>
+      <small><a href="https://github.com/cscdanielj">GitHub</a> · <a href="https://www.linkedin.com/in/jason-daniel-067236346/">LinkedIn</a></small>
     </div>
   </footer>
 </body>
 </html>
+
