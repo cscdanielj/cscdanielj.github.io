@@ -26,7 +26,7 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
        alt="Jason Daniel Cyber Portfolio" />
 </div>
 
-</div>
+
 
   </div>
 </section>
