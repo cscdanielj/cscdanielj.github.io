@@ -19,7 +19,7 @@ title: Home
    <div class="panel" style="text-align:center;">
   <img src="/assets/img/img-defense.png" 
        alt="Jason Daniel Cyber Portfolio" 
-       style="max-width: 260px; border-radius: 12px; box-shadow: 0 0 18px rgba(0,229,255,.4);">
+       style="max-width: 260px; border-radius: 18px; box-shadow: 0 0 18px rgba(0,229,255,.4);">
 </div>
 
   </div>
