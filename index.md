@@ -36,23 +36,18 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
     <h2>Projects</h2>
     <div class="grid">
 
-      <!-- Finished Project -->
-      <article class="card">
-        <div class="thumb">
-          <!-- Replace with /assets/img/soc-thumb.png if you add one -->
-          SOC · WAZUH · SURICATA
-        </div>
-        <div class="body">
-          <h3>Project 1 — Home SOC Lab (Finished)</h3>
-          <p>Wazuh SIEM + Suricata IDS on Ubuntu 20.04.6. Host-only network, log collection, alerts, and a short incident walkthrough.</p>
-          <div class="tags">
-            <span class="tag">SIEM</span><span class="tag">IDS</span><span class="tag">Docker</span>
-          </div>
-          <div class="actions">
-            <a class="btn btn-primary" href="https://github.com/cscdanielj/homelab-ubuntu-soc">Open Repo</a>
-          </div>
-        </div>
-      </article>
+ <!-- Project 1 -->
+<article class="card">
+  <div class="thumb">HOME LAB</div>
+  <div class="body">
+    <h3>Project 1 — Home SOC Lab Setup</h3>
+    <p>Building and configuring a SOC lab for hands-on practice with network monitoring, threat detection, and incident response.</p>
+    <div class="actions">
+      <a class="btn btn-primary" href="/projects/home-soc-labs.html">Open Repo</a>
+    </div>
+  </div>
+</article>
+
 
       <!-- Future Projects Section (WIP cards) -->
       <article class="card">
