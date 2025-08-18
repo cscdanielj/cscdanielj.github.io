@@ -7,31 +7,21 @@ title: Home
   <div class="container hero-grid">
     <div>
       <div class="kicker">CYBER DEFENSE PORTFOLIO</div>
-      <h1>Jason Daniel — SOC / Blue Team</h1>
+      <h1>Jason Daniel</h1>
+      <h3>Aspiring Cybersecurity Defense Professional</h3>
       <p>I build compact, realistic SOC labs and document detections and investigations so others can repeat them.</p>
       <div class="cta-group">
         <a class="btn btn-primary" href="#projects">View Projects</a>
         <a class="btn btn-outline" href="/resume/Jason-Daniel-Resume.pdf">Download Resume</a>
       </div>
     </div>
+  
+   <div class="panel" style="text-align:center;">
+  <img src="/assets/img/img-defense.png" 
+       alt="Jason Daniel Cyber Portfolio" 
+       style="max-width: 260px; border-radius: 12px; box-shadow: 0 0 18px rgba(0,229,255,.4);">
+</div>
 
-    <div class="panel">
-      <strong>Focus areas</strong>
-      <ul>
-        <li>Collect → Detect → Investigate in a home SOC</li>
-        <li>Windows telemetry (Sysmon, Winlogbeat), network IDS (Suricata)</li>
-        <li>Writing detections and reducing false positives</li>
-      </ul>
-      <strong>Stack</strong>
-      <div class="tags">
-        <span class="tag">Ubuntu 20.04.6</span>
-        <span class="tag">Wazuh</span>
-        <span class="tag">Suricata</span>
-        <span class="tag">Sysmon</span>
-        <span class="tag">Winlogbeat</span>
-        <span class="tag">Docker</span>
-      </div>
-    </div>
   </div>
 </section>
 
