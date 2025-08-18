@@ -123,6 +123,6 @@ title: Home
 <section class="section">
   <div class="container">
     <h2>Resume</h2>
-    <p><a class="btn btn-outline" href="./resume/Jason-Daniel-Resume.pdf">Download PDF</a></p>
+    <p><a class="btn btn-outline" href="/resume/Jason-Daniel-Resume.pdf">Download PDF</a></p>
   </div>
 </section>
