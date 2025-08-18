@@ -53,7 +53,7 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
       <article class="card">
         <div class="thumb">WINDOWS · SYSMON</div>
         <div class="body">
-          <h3>Windows 10 Endpoint Lab (Work in Progress)</h3>
+          <h3>(Future Project)Windows 10 Endpoint Lab</h3>
           <p>Planned: Sysmon + Winlogbeat forwarding to the SOC. Goal: endpoint visibility, log shipping, benign alert validation.</p>
           <div class="tags">
             <span class="tag">Sysmon</span><span class="tag">Winlogbeat</span><span class="tag">Detection</span>
@@ -64,7 +64,7 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
       <article class="card">
         <div class="thumb">NMAP · DISCOVERY</div>
         <div class="body">
-          <h3>Network Scanning with Nmap (Planned)</h3>
+          <h3>(Future Project)Network Scanning with Nmap</h3>
           <p>Port/service discovery and baseline mapping for the home lab network.</p>
           <div class="tags"><span class="tag">Nmap</span><span class="tag">Networking</span></div>
         </div>
@@ -73,7 +73,7 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
       <article class="card">
         <div class="thumb">BURP · WEB SEC</div>
         <div class="body">
-          <h3>Web Vulnerability Testing with Burp Suite (Planned)</h3>
+          <h3>(Future Project)Web Vulnerability Testing with Burp Suite</h3>
           <p>Interception proxy, spidering, and reporting for common web flaws.</p>
           <div class="tags"><span class="tag">Burp Suite</span><span class="tag">AppSec</span></div>
         </div>
@@ -82,7 +82,7 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
       <article class="card">
         <div class="thumb">WIRESHARK · PCAP</div>
         <div class="body">
-          <h3>Packet Analysis with Wireshark (Planned)</h3>
+          <h3>(Future Project)Packet Analysis with Wireshark</h3>
           <p>Traffic capture and analysis for anomaly detection and troubleshooting.</p>
           <div class="tags"><span class="tag">Wireshark</span><span class="tag">PCAP</span></div>
         </div>
