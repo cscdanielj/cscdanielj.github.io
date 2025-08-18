@@ -105,6 +105,21 @@ a:hover{color:#8df6ff; text-shadow: var(--glow)}
   .hero-grid{grid-template-columns: 1fr}
   .card{grid-column: span 12}
   .split{grid-template-columns:1fr}
+  /* Right-side glowing image panel */
+.image-panel {
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-panel img {
+  width: 100%;
+  height: 100%;
+  max-height: 360px;   /* Adjust this number if the panel feels too tall/short */
+  object-fit: cover;   /* Keeps it proportional while filling the box */
+  border-radius: var(--radius);
 }
 
 
