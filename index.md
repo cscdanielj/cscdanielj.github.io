@@ -18,7 +18,7 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
         <a class="btn btn-primary" href="#projects">View Projects</a>
         <a class="btn btn-outline" href="/resume/Jason-Daniel-Resume.pdf">Download Resume</a>
       </div>
-    </div>
+   
   
 <div class="panel image-panel">
   <img src="/assets/img/img-defense.png" 
