@@ -11,7 +11,7 @@ title: Home
       <p>I build compact, realistic SOC labs and document detections and investigations so others can repeat them.</p>
       <div class="cta-group">
         <a class="btn btn-primary" href="#projects">View Projects</a>
-        <a class="btn btn-outline" href="./resume/Jason-Daniel-Resume.pdf">Download Resume</a>
+        <a class="btn btn-outline" href="/resume/Jason-Daniel-Resume.pdf">Download Resume</a>
       </div>
     </div>
 
@@ -40,14 +40,14 @@ title: Home
     <h2>Projects</h2>
     <div class="grid">
 
-      <!-- Project 1 -->
+      <!-- Finished Project -->
       <article class="card">
         <div class="thumb">
           <!-- Replace with /assets/img/soc-thumb.png if you add one -->
           SOC · WAZUH · SURICATA
         </div>
         <div class="body">
-          <h3>Project 1 — Ubuntu SOC Lab</h3>
+          <h3>Project 1 — Home SOC Lab (Finished)</h3>
           <p>Wazuh SIEM + Suricata IDS on Ubuntu 20.04.6. Host-only network, log collection, alerts, and a short incident walkthrough.</p>
           <div class="tags">
             <span class="tag">SIEM</span><span class="tag">IDS</span><span class="tag">Docker</span>
@@ -58,30 +58,23 @@ title: Home
         </div>
       </article>
 
-      <!-- Project 2 -->
+      <!-- Future Projects Section (WIP cards) -->
       <article class="card">
-        <div class="thumb">
-          <!-- Replace with /assets/img/win10-thumb.png if you add one -->
-          WINDOWS · SYSMON
-        </div>
+        <div class="thumb">WINDOWS · SYSMON</div>
         <div class="body">
-          <h3>Project 2 — Windows 10 Endpoint Lab</h3>
-          <p>Sysmon + Winlogbeat forwarding to the SOC. Validates detections with safe artifacts and shows query/alert screenshots.</p>
+          <h3>Windows 10 Endpoint Lab (Work in Progress)</h3>
+          <p>Planned: Sysmon + Winlogbeat forwarding to the SOC. Goal: endpoint visibility, log shipping, benign alert validation.</p>
           <div class="tags">
             <span class="tag">Sysmon</span><span class="tag">Winlogbeat</span><span class="tag">Detection</span>
-          </div>
-          <div class="actions">
-            <a class="btn btn-primary" href="https://github.com/cscdanielj/homelab-windows10-vm">Open Repo</a>
           </div>
         </div>
       </article>
 
-      <!-- Future projects (optional, keeps the grid balanced) -->
       <article class="card">
         <div class="thumb">NMAP · DISCOVERY</div>
         <div class="body">
-          <h3>Project 3 — Network Scanning (Nmap)</h3>
-          <p>(Planned) Port and service discovery; baseline mapping for your lab network.</p>
+          <h3>Network Scanning with Nmap (Planned)</h3>
+          <p>Port/service discovery and baseline mapping for the home lab network.</p>
           <div class="tags"><span class="tag">Nmap</span><span class="tag">Networking</span></div>
         </div>
       </article>
@@ -89,9 +82,18 @@ title: Home
       <article class="card">
         <div class="thumb">BURP · WEB SEC</div>
         <div class="body">
-          <h3>Project 4 — Web Vuln Scanning (Burp)</h3>
-          <p>(Planned) Hands-on practice with interception, spidering, and reporting.</p>
+          <h3>Web Vulnerability Testing with Burp Suite (Planned)</h3>
+          <p>Interception proxy, spidering, and reporting for common web flaws.</p>
           <div class="tags"><span class="tag">Burp Suite</span><span class="tag">AppSec</span></div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="thumb">WIRESHARK · PCAP</div>
+        <div class="body">
+          <h3>Packet Analysis with Wireshark (Planned)</h3>
+          <p>Traffic capture and analysis for anomaly detection and troubleshooting.</p>
+          <div class="tags"><span class="tag">Wireshark</span><span class="tag">PCAP</span></div>
         </div>
       </article>
 
