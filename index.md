@@ -36,17 +36,18 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
     <h2>Projects</h2>
     <div class="grid">
 
- <!-- Project 1 -->
+<!-- Project 1 -->
 <article class="card">
   <div class="thumb">HOME LAB</div>
   <div class="body">
-    <h3>Project 1 — Home SOC Lab Setup</h3>
-    <p>Building and configuring a SOC lab for hands-on practice with network monitoring, threat detection, and incident response.</p>
+    <h3>Project 1 — Home-SOC-Lab-Setup</h3>
+    <p>Building and configuring a home SOC lab for hands-on practice with networking, visibility, and incident workflows.</p>
     <div class="actions">
-      <a class="btn btn-primary" href="/projects/home-soc-labs.html">Open Repo</a>
+      <a class="btn btn-primary" href="/projects/home-soc-lab-setup.html">Open Repo</a>
     </div>
   </div>
 </article>
+
 
 
       <!-- Future Projects Section (WIP cards) -->
