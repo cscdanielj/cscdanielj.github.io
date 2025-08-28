@@ -40,13 +40,14 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
 <article class="card">
   <div class="thumb">HOME LAB</div>
   <div class="body">
-    <h3>Project 1 — Home SOC Lab Setup</h3>
+    <h3>Project 1 — Home-SOC-Lab-Setup</h3>
     <p>Building and configuring a home SOC lab for hands-on practice with networking, visibility, and incident workflows.</p>
     <div class="actions">
       <a class="btn btn-primary" href="/projects/home-soc-lab-setup.html">Open Repo</a>
     </div>
   </div>
 </article>
+
 
 
 
