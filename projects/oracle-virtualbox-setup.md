@@ -18,7 +18,7 @@ This guide shows how I installed and configured **Oracle VirtualBox** on my host
 
 ---
 
-## Install VirtualBox
+## Step2: Install VirtualBox
 1. Run the installer and accept defaults (or customize as needed).
 2. Allow network interface installation if prompted.
 3. Finish and launch VirtualBox.
