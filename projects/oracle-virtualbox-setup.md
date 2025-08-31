@@ -3,13 +3,10 @@ layout: default
 title: Oracle VirtualBox Setup
 ---
 
-# 🧰 Oracle VirtualBox Setup
+# Oracle VirtualBox Setup
 
 ## Overview
 This guide shows how I installed and configured **Oracle VirtualBox** on my host system for my Home SOC Lab.
-
-- **Host OS:** Windows 10
-- **CPU/RAM/GPU:** Ryzen 5 1400 Quad Core / 24 GB / RX 580
 
 ---
 
