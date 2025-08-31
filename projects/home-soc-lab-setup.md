@@ -10,6 +10,17 @@ title: Home-SOC-Lab-Setup
 
     <div class="grid">
 
+        <!-- Oracle VirtualBox Setup -->
+<article class="card">
+  <div class="body">
+    <h3>Oracle VirtualBox Setup</h3>
+     <p>Step-by-step setup guide for installing and configuring Oracle VirtualBox on your host machine.</p>
+       <a href="oracle-virtualbox-setup.html" class="button">View Documentation</a>
+    </div>
+  </div>
+</article>
+
+
     <!-- Ubuntu Lab -->
 <article class="card">
   <div class="body">
