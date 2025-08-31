@@ -14,7 +14,7 @@ This guide shows how I installed and configured **Oracle VirtualBox** on my host
 - VirtualBox: [Download Here](https://www.virtualbox.org/wiki/Downloads)
 - VirtualBox Extension Pack: [Download Here](https://www.virtualbox.org/wiki/Downloads)
 
-> `![Download VirtualBox](screenshots/virtualbox/downloads.png "Download page")`
+![Download VirtualBox](screenshots/virtualbox/downloads.png)
 
 ---
 
