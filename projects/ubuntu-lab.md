@@ -22,11 +22,11 @@ Launch Oracle VirtualBox Manager and click **New** to create a virtual machine.
 
 Follow along with the images to complete the setup.  
  
-<img src="screenshots/ubuntu/settings1.png" alt="VM Setup Step 1" width="60%">
+<img src="screenshots/ubuntu/settings1.png" alt="VM Setup Step 1" width="60%" style="margin-left: 40px;">
  
-<img src="screenshots/ubuntu/settings2.png" alt="VM Setup Step 2" width="60%">
+<img src="screenshots/ubuntu/settings2.png" alt="VM Setup Step 2" width="60%" style="margin-left: 40px;">
   
-<img src="screenshots/ubuntu/settings3.png" alt="VM Setup Step 3" width="60%">
+<img src="screenshots/ubuntu/settings3.png" alt="VM Setup Step 3" width="60%" style="margin-left: 40px;">
 
 - After setup is complete, click "Finish"
 
