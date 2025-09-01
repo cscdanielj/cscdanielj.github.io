@@ -4,7 +4,7 @@ title: Windows 10 VM Lab
 permalink: /projects/windows-lab.html
 ---
 
-# 🪟 Windows 10 VM Lab
+# Windows 10 VM Lab
 
 This guide walks through setting up a **Windows 10 virtual machine** in Oracle VirtualBox to be used as part of a home SOC lab.  
 
