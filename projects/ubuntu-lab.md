@@ -4,9 +4,8 @@ title: Ubuntu VM Lab
 permalink: /projects/ubuntu-lab.html
 ---
 
-<section class="section">
-  <div class="container" style="max-width: 960px;">
-    <div style="padding-left: 12px;">
+
+<div style="max-width: 960px; margin: 0 auto; padding-left: 12px; padding-right: 12px;">
 
 
 # 🐧 Ubuntu VM Lab
@@ -72,5 +71,4 @@ After installation, open the terminal in Ubuntu and run the following commands t
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl git ufw -y
     </div>
-  </div>
-</section>
+
