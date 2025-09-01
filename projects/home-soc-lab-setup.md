@@ -44,18 +44,17 @@ title: Home-SOC-Lab-Setup
 </article>
 
 
-      <!-- Add more Home SOC labs here as you create them -->
-      <!--
-      <article class="card">
+  <!-- Windows 11 Lab -->
+  <article class="card">
         <div class="body">
-          <h3>Another Home SOC Lab</h3>
-          <p>Short one-line description of what this lab covers.</p>
+          <h3>Windows 11 VM Lab</h3>
+          <p>(Coming Soon)Setup and configuration guide for building a SOC with a Windows 11 VM.</p>
           <div class="actions">
-            <a class="btn btn-primary" href="YOUR_REPO_LINK_HERE">View Repo</a>
+            <a class="btn btn-primary" href="windows11-lab.html">View Documentation</a>
           </div>
         </div>
       </article>
-      -->
+      
 
     </div>
   </div>
