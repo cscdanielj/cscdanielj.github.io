@@ -4,8 +4,12 @@ title: Ubuntu VM Lab
 permalink: /projects/ubuntu-lab.html
 ---
 
-
-<div style="max-width: 960px; margin: 0 auto; padding-left: 12px; padding-right: 12px;">
+<style>
+  .lab-content img {display:block; margin:1rem auto; max-width:100%; border-radius:8px;}
+  .lab-content pre code {display:block; padding:0.75rem 1rem;}
+</style>
+<div class="lab-content">
+  <!-- put your existing markdown between this div and its closing tag -->
 
 
 # 🐧 Ubuntu VM Lab
@@ -70,5 +74,5 @@ After installation, open the terminal in Ubuntu and run the following commands t
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl git ufw -y
-    </div>
-
+    
+</div>
