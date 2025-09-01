@@ -16,7 +16,7 @@ title: Home-SOC-Lab-Setup
     <h3>Oracle VirtualBox Setup</h3>
     <p>Install and configure Oracle VirtualBox on the host machine (downloads, Extension Pack, networking).</p>
     <div class="actions">
-      <a class="btn btn-primary" href="/projects/oracle-virtualbox-setup.html">View Documentation</a>
+      <!--<a class="btn btn-primary" href="/projects/oracle-virtualbox-setup.html">View Documentation</a>-->
     </div>
   </div>
 </article>
