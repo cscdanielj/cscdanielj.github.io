@@ -22,11 +22,11 @@ Download the official Ubuntu 20.04.6 ISO from the Ubuntu website.
 
 - Follow along with the images to complete the setup.  
  
-<img src="screenshots/ubuntu/settings1.png" alt="VM Setup Step 1" width="60%" style="margin-left: 40px;">
+<img src="screenshots/ubuntu/settings1.png" alt="VM Setup Step 1" width="60%" style="margin-left: 80px;">
  
-<img src="screenshots/ubuntu/settings2.png" alt="VM Setup Step 2" width="60%" style="margin-left: 40px;">
+<img src="screenshots/ubuntu/settings2.png" alt="VM Setup Step 2" width="60%" style="margin-left: 80px;">
   
-<img src="screenshots/ubuntu/settings3.png" alt="VM Setup Step 3" width="60%" style="margin-left: 40px;">
+<img src="screenshots/ubuntu/settings3.png" alt="VM Setup Step 3" width="60%" style="margin-left: 80px;">
 
 - After setup is complete, click "Finish"
 
