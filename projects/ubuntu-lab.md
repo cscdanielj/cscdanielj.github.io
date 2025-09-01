@@ -3,9 +3,6 @@ layout: default
 title: Ubuntu VM Lab
 permalink: /projects/ubuntu-lab.html
 ---
-<section class="section">
-  <div class="container">
-    <div class="grid">
 
 
 # 🐧 Ubuntu VM Lab
