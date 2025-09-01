@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Windows 10 VM Lab
-permalink: /projects/windows-lab.html
+permalink: /projects/windows10-lab.html
 ---
 
 # Windows 10 VM Lab
