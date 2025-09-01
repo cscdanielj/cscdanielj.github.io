@@ -38,7 +38,7 @@ title: Home-SOC-Lab-Setup
     <h3>Windows 10 VM Lab</h3>
     <p>Setup and configuration guide for building a SOC with a Windows 10 VM.</p>
     <div class="actions">
-      <a class="btn btn-primary" href="/projects/windows-lab.html">View Documentation</a>
+      <a class="btn btn-primary" href="/projects/windows10-lab.html">View Documentation</a>
     </div>
   </div>
 </article>
