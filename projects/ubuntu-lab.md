@@ -67,6 +67,9 @@ After installation, open the terminal in Ubuntu and run the following commands t
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl git ufw -y
 ```
+Restart your VM for changes to take effect and enjoy!
+
+[Back to Projects Repo](https://cscdanielj.github.io/projects/home-soc-lab-setup.html)
 
     
 
