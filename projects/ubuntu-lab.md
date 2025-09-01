@@ -42,11 +42,11 @@ Download the official Ubuntu 20.04.6 ISO from the Ubuntu website.
 ---
 
 - ## Step 4: Installing Ubuntu on VM
-- Launch the Ubuntu VM.  
+- Launch the **Ubuntu VM**.  
 - Follow through the Ubuntu installation process.  
 - Use the following screenshots as a guide for each step.  
 
-<img src="screenshots/ubuntu/setup1.png" alt="Ubuntu Install Step 1" width="60%" style="margin-left: 40px;"> 
+<img src="screenshots/ubuntu/setup1.png" alt="Ubuntu Install Step 1" width="60%" style="margin-left: 60px;"> 
 
 <img src="screenshots/ubuntu/setup2.png" alt="Ubuntu Install Step 2" width="60%" style="margin-left: 40px;">
 
