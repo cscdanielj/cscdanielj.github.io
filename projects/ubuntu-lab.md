@@ -37,7 +37,7 @@ Follow along with the images to complete the setup.
 Select the Ubuntu VM’s **Settings → Network**.  
 <img src="screenshots/ubuntu/settings4.png" alt="Network Settings" width="60%">
 
-Configure the following network settings.
+Configure the following network settings.     
 <img src="screenshots/ubuntu/settings5.png" alt="Network Settings" width="60%">
 
 ---
