@@ -89,7 +89,7 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
 
 
   </div>
-</section>
+
 
 <section id="skills" class="section">
   <div class="container split">
