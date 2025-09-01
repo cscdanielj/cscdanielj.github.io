@@ -3,6 +3,10 @@ layout: default
 title: Ubuntu VM Lab
 permalink: /projects/ubuntu-lab.html
 ---
+<section class="section">
+  <div class="container">
+    <div class="grid">
+
 
 # 🐧 Ubuntu VM Lab
 
@@ -22,11 +26,11 @@ Launch Oracle VirtualBox Manager and click **New** to create a virtual machine.
 
 Follow along with the images to complete the setup.  
  
-<img src="screenshots/ubuntu/settings1.png" alt="VM Setup Step 1" width="60%">
+  <img src="screenshots/ubuntu/settings1.png" alt="VM Setup Step 1" width="60%">
  
-<img src="screenshots/ubuntu/settings2.png" alt="VM Setup Step 2" width="60%">
+  <img src="screenshots/ubuntu/settings2.png" alt="VM Setup Step 2" width="60%">
   
-<img src="screenshots/ubuntu/settings3.png" alt="VM Setup Step 3" width="60%">
+  <img src="screenshots/ubuntu/settings3.png" alt="VM Setup Step 3" width="60%">
 
 - After setup is complete, click "Finish"
 
@@ -35,9 +39,9 @@ Follow along with the images to complete the setup.
 ## Step 3: Network Settings
 Select the Ubuntu VM’s **Settings → Network**.  
 
-<img src="screenshots/ubuntu/settings4.png" alt="Network Settings" width="60%">
+  <img src="screenshots/ubuntu/settings4.png" alt="Network Settings" width="60%">
 Configure the following network settings.
-<img src="screenshots/ubuntu/settings5.png" alt="Network Settings" width="60%">
+    <img src="screenshots/ubuntu/settings5.png" alt="Network Settings" width="60%">
 
 ---
 
@@ -46,16 +50,15 @@ Configure the following network settings.
 2. Follow through the Ubuntu installation process.  
 3. Use the following 9 screenshots as a guide for each step.  
 
- 
-<img src="screenshots/ubuntu/setup1.png" alt="Ubuntu Install Step 1" width="60%"> 
-<img src="screenshots/ubuntu/setup2.png" alt="Ubuntu Install Step 2" width="60%">
-<img src="screenshots/ubuntu/setup3.png" alt="Ubuntu Install Step 3" width="60%">
-<img src="screenshots/ubuntu/setup4.png" alt="Ubuntu Install Step 4" width="60%">
-<img src="screenshots/ubuntu/setup5.png" alt="Ubuntu Install Step 5" width="60%">
-<img src="screenshots/ubuntu/setup6.png" alt="Ubuntu Install Step 6" width="60%">
-<img src="screenshots/ubuntu/setup7.png" alt="Ubuntu Install Step 7" width="60%">
-<img src="screenshots/ubuntu/setup8.png" alt="Ubuntu Install Step 8" width="60%">
-<img src="screenshots/ubuntu/setup9.png" alt="Ubuntu Install Step 9" width="60%">
+  <img src="screenshots/ubuntu/setup1.png" alt="Ubuntu Install Step 1" width="60%"> 
+  <img src="screenshots/ubuntu/setup2.png" alt="Ubuntu Install Step 2" width="60%">
+  <img src="screenshots/ubuntu/setup3.png" alt="Ubuntu Install Step 3" width="60%">
+  <img src="screenshots/ubuntu/setup4.png" alt="Ubuntu Install Step 4" width="60%">
+  <img src="screenshots/ubuntu/setup5.png" alt="Ubuntu Install Step 5" width="60%">
+  <img src="screenshots/ubuntu/setup6.png" alt="Ubuntu Install Step 6" width="60%">
+  <img src="screenshots/ubuntu/setup7.png" alt="Ubuntu Install Step 7" width="60%">
+  <img src="screenshots/ubuntu/setup8.png" alt="Ubuntu Install Step 8" width="60%">
+  <img src="screenshots/ubuntu/setup9.png" alt="Ubuntu Install Step 9" width="60%">
 
 ✅ Once completed, Ubuntu is now fully installed on the VM.
 
