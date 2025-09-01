@@ -20,9 +20,8 @@ This guide shows how I installed and configured **Oracle VirtualBox** on my host
 ---
 
 ## Step2: Install VirtualBox
-1. Run the installer and accept defaults (or customize as needed).
-2. Allow network interface installation if prompted.
-3. Finish and launch VirtualBox.
+- Launch the VBM installation file and follow the installation instructions given
+- After the VBM is installed, launch the Extension Pack installation file and follow the installation instructions.
 
 # _Oracle VMB setup is now complete!_
 
