@@ -48,49 +48,46 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
   </div>
 </article>
 
-
-
-
-      <!-- Future Projects Section (WIP cards) -->
+      <!-- Future Projects Section (Updated) -->
       <article class="card">
-        <div class="thumb">WINDOWS · SYSMON</div>
+        <div class="thumb">WINDOWS · EVENT LOGS</div>
         <div class="body">
-          <h3>(Future Project)Windows 10 Endpoint Lab</h3>
-          <p>Planned: Sysmon + Winlogbeat forwarding to the SOC. Goal: endpoint visibility, log shipping, benign alert validation.</p>
+          <h3>(Future Project) Windows 10 Log Collection & Analysis</h3>
+          <p>Planned: Install Sysmon and review Event Viewer logs to detect failed logins, process creation, and suspicious system activity.</p>
           <div class="tags">
-            <span class="tag">Sysmon</span><span class="tag">Winlogbeat</span><span class="tag">Detection</span>
+            <span class="tag">Sysmon</span><span class="tag">Event Viewer</span><span class="tag">Detection</span>
           </div>
         </div>
       </article>
 
       <article class="card">
-        <div class="thumb">NMAP · DISCOVERY</div>
+        <div class="thumb">UBUNTU · HARDENING</div>
         <div class="body">
-          <h3>(Future Project)Network Scanning with Nmap</h3>
-          <p>Port/service discovery and baseline mapping for the home lab network.</p>
-          <div class="tags"><span class="tag">Nmap</span><span class="tag">Networking</span></div>
-        </div>
-      </article>
-
-      <article class="card">
-        <div class="thumb">BURP · WEB SEC</div>
-        <div class="body">
-          <h3>(Future Project)Web Vulnerability Testing with Burp Suite</h3>
-          <p>Interception proxy, spidering, and reporting for common web flaws.</p>
-          <div class="tags"><span class="tag">Burp Suite</span><span class="tag">AppSec</span></div>
+          <h3>(Future Project) Ubuntu Security Hardening & Log Review</h3>
+          <p>Planned: Configure UFW firewall, create non-root users, and analyze /var/log/auth.log for failed logins or brute-force attempts.</p>
+          <div class="tags"><span class="tag">Linux</span><span class="tag">UFW</span><span class="tag">Auth Logs</span></div>
         </div>
       </article>
 
       <article class="card">
         <div class="thumb">WIRESHARK · PCAP</div>
         <div class="body">
-          <h3>(Future Project)Packet Analysis with Wireshark</h3>
-          <p>Traffic capture and analysis for anomaly detection and troubleshooting.</p>
-          <div class="tags"><span class="tag">Wireshark</span><span class="tag">PCAP</span></div>
+          <h3>(Future Project) Network Traffic Capture & Analysis</h3>
+          <p>Planned: Capture packets with Wireshark, identify HTTP vs HTTPS traffic, and spot anomalies like ping sweeps or DNS lookups.</p>
+          <div class="tags"><span class="tag">Wireshark</span><span class="tag">Networking</span><span class="tag">PCAP</span></div>
         </div>
       </article>
 
-    </div>
+      <article class="card">
+        <div class="thumb">PERSISTENCE · MALWARE</div>
+        <div class="body">
+          <h3>(Future Project) Malware Persistence Simulation</h3>
+          <p>Planned: Create harmless scheduled tasks (Windows) and cron jobs (Linux) to simulate persistence, then detect them through system logs.</p>
+          <div class="tags"><span class="tag">Persistence</span><span class="tag">Windows</span><span class="tag">Linux</span></div>
+        </div>
+      </article>
+
+
   </div>
 </section>
 
