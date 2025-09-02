@@ -16,7 +16,7 @@ I am passionate about tackling complex cybersecurity challenges and currently fo
 My goal is to leverage my education in IT background and cybersecurity  to secure a role as a Cybersecurity Analyst. I am committed to growing my skills to protect organizational assets from evolving cyber risks.</p>
       <div class="cta-group">
         <a class="btn btn-primary" href="#projects">View Projects</a>
-        <a class="btn btn-outline" href="/resume/Jason-Daniel-Resume.pdf">Download Resume</a>
+        <a class="btn btn-outline" href="/resume/JDaniel-Resume.pdf">Download Resume</a>
       </div>
 </div>
    
@@ -115,6 +115,6 @@ My goal is to leverage my education in IT background and cybersecurity  to secur
 <section class="section">
   <div class="container">
     <h2>Resume</h2>
-    <p><a class="btn btn-outline" href="/resume/Jason-Daniel-Resume.pdf">Download PDF</a></p>
+    <p><a class="btn btn-outline" href="/resume/JDaniel-Resume.pdf">Download PDF</a></p>
   </div>
 </section>
