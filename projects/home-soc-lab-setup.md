@@ -48,7 +48,7 @@ title: Home-SOC-Lab-Setup
   <article class="card">
         <div class="body">
           <h3>Windows 11 VM Lab</h3>
-          <p>(Coming Soon)Setup and configuration guide for building a SOC with a Windows 11 VM.</p>
+          <p>Setup and configuration guide for building a SOC with a Windows 11 VM.</p>
           <div class="actions">
             <a class="btn btn-primary" href="windows11-lab.html">View Documentation</a>
           </div>
